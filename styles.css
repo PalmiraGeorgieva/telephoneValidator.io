@@ -1,0 +1,44 @@
+
+body {
+  text-align: center;
+  font-family: Ariel, sans-serif;
+  background-color: #FF7F50;
+  color: white;
+  padding: 0;
+}
+
+#phone-container {
+  display: block;
+  background-color: #FFEBCD;
+  color: black;
+  margin-right: auto;
+  margin-left: auto;
+  width: 250px;
+  height: 300px;
+  border: solid, black, 10px;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border-radius: 8px;
+
+}
+
+#phone-container button {
+
+display: inline-block;
+margin-right: 10px;
+gap: 10px;
+padding: 8px 16px;border-radius: 8px;
+background-color: wheat;
+}
